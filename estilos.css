@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 40px;
+}
+
+h1 {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 8px 15px;
+}
+
